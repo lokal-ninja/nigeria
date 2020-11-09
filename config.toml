@@ -1,0 +1,15 @@
+baseURL = "https://ng.shoogle.net/nigeria"
+languageCode = "en"
+title = "Nigeria"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "nigeria"

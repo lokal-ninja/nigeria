@@ -1,6 +1,6 @@
 ---
 title: Garki
 url: /garki/
-latitude: 9.0131423
-longitude: 7.4813472
+latitude: 9.032
+longitude: 7.472
 ---

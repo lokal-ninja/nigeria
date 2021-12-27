@@ -1,6 +1,6 @@
 ---
 title: Maryland
 url: /maryland/
-latitude: 6.5731894
-longitude: 3.3699482
+latitude: 6.566
+longitude: 3.366
 ---

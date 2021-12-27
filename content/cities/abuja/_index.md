@@ -1,6 +1,6 @@
 ---
 title: Abuja
 url: /abuja/
-latitude: 10.5737941
-longitude: 12.1638081
+latitude: 9.076
+longitude: 7.425
 ---

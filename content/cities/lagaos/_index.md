@@ -1,6 +1,6 @@
 ---
 title: Lagaos
 url: /lagaos/
-latitude: 
-longitude: 
+latitude: 6.436
+longitude: 3.42
 ---

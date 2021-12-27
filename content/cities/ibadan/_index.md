@@ -1,6 +1,6 @@
 ---
 title: Ibadan
 url: /ibadan/
-latitude: 10.844983000000001
-longitude: 4.021152
+latitude: 7.422
+longitude: 3.91
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /kano/shoprite/
-shop: mall
+shop: Einkaufszentrum
 ---

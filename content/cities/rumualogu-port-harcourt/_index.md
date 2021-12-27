@@ -1,6 +1,6 @@
 ---
 title: Rumualogu/Port Harcourt
 url: /rumualogu-port-harcourt/
-latitude: 
-longitude: 
+latitude: 4.876
+longitude: 6.919
 ---

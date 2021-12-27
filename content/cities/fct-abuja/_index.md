@@ -1,6 +1,6 @@
 ---
 title: fct abuja
 url: /fct-abuja/
-latitude: 
-longitude: 
+latitude: 8.991
+longitude: 7.355
 ---

@@ -1,6 +1,6 @@
 ---
 title: KADUNA
 url: /kaduna/
-latitude: 
-longitude: 
+latitude: 10.514
+longitude: 7.441
 ---

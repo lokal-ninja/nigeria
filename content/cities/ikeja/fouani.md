@@ -1,5 +1,5 @@
 ---
 title: "Fouani"
 url: /ikeja/fouani/
-shop: electronics
+shop: Elektronik
 ---

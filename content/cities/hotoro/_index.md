@@ -1,6 +1,6 @@
 ---
 title: Hotoro
 url: /hotoro/
-latitude: 
-longitude: 
+latitude: 11.957
+longitude: 8.586
 ---

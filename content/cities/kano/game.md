@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /kano/game/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Domino"
 url: /lagos/domino/
-shop: Supermarkt
+shop: supermarket
 ---

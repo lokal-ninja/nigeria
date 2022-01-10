@@ -1,5 +1,5 @@
 ---
 title: "DeTinselsSignature"
 url: /sapele-delta-state/detinselssignature/
-shop: Supermarkt
+shop: supermarket
 ---

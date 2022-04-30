@@ -1,6 +1,6 @@
 ---
-title: Wado City
-url: /wado-city/
+title: Warri
+url: /warri/
 latitude: 5.541
 longitude: 5.763
 ---

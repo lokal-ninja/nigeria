@@ -1,6 +1,6 @@
 ---
 title: Lagos
 url: /lagos/
-latitude: 6.503
-longitude: 3.379
+latitude: 6.436
+longitude: 3.451
 ---

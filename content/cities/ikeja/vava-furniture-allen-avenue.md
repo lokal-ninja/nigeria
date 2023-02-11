@@ -1,5 +1,5 @@
 ---
 title: "Vava Furniture"
-url: /ikeja/vava-furniture-2/
+url: /ikeja/vava-furniture/
 shop: furniture
 ---

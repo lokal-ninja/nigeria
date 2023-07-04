@@ -1,6 +1,6 @@
 ---
 title: Jos
 url: /jos/
-latitude: 9.922
-longitude: 8.891
+latitude: 9.89
+longitude: 8.878
 ---

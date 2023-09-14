@@ -1,5 +1,5 @@
 ---
 title: "Treasure Plaza"
-url: /osogbo/treasure-plaza/
+url: /osogbo/treasure-plaza-obafemi-awolowo-way/
 shop: mall
 ---

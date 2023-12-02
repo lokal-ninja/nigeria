@@ -1,6 +1,6 @@
 ---
 title: lekki
 url: /lekki/
-latitude: 6.443
-longitude: 3.477
+latitude: 6.436
+longitude: 3.481
 ---

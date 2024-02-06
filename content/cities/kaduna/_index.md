@@ -1,6 +1,6 @@
 ---
-title: KADUNA
+title: Kaduna
 url: /kaduna/
-latitude: 10.514
-longitude: 7.441
+latitude: 10.548
+longitude: 7.452
 ---

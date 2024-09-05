@@ -1,5 +1,5 @@
 ---
 title: "Rekta garden"
 url: /jos/rekta-garden/
-shop: garden centre
+shop: Garten-Center
 ---

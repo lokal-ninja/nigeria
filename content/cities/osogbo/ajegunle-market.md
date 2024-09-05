@@ -1,5 +1,5 @@
 ---
 title: "Ajegunle Market"
 url: /osogbo/ajegunle-market/
-shop: car parts
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbieplace Supermarket"
 url: /abuja/barbieplace-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

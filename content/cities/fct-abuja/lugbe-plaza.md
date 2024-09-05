@@ -1,5 +1,5 @@
 ---
 title: "lugbe Plaza"
 url: /fct-abuja/lugbe-plaza/
-shop: supermarket
+shop: Supermarkt
 ---

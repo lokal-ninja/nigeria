@@ -1,5 +1,5 @@
 ---
 title: "Kishim Pharmacy"
 url: /jos/kishim-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

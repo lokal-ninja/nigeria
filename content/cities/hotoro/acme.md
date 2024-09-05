@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /hotoro/acme/
-shop: supermarket
+shop: Supermarkt
 ---

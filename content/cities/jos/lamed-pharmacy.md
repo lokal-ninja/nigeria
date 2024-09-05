@@ -1,5 +1,5 @@
 ---
 title: "LaMed Pharmacy"
 url: /jos/lamed-pharmacy/
-shop: medical supply
+shop: Sanitätshaus
 ---

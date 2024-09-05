@@ -1,5 +1,5 @@
 ---
 title: "Olatundun Shopping Plaza"
 url: /osogbo/olatundun-shopping-plaza/
-shop: mall
+shop: Einkaufszentrum
 ---

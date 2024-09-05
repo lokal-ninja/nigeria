@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lagos/spar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Creek garden"
 url: /jos/creek-garden/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TMP Fashion"
 url: /ikeja/tmp-fashion/
-shop: jewelry
+shop: Schmuck
 ---

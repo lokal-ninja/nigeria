@@ -1,5 +1,5 @@
 ---
 title: "Big Mummy"
 url: /oshogbo/big-mummy/
-shop: supermarket
+shop: Supermarkt
 ---

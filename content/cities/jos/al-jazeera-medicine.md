@@ -1,5 +1,5 @@
 ---
 title: "Al-Jazeera medicine"
 url: /jos/al-jazeera-medicine/
-shop: Drogerie
+shop: chemist
 ---

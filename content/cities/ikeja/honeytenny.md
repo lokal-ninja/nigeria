@@ -1,5 +1,5 @@
 ---
 title: "Honeytenny"
 url: /ikeja/honeytenny/
-shop: Kleidung
+shop: clothes
 ---

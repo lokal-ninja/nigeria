@@ -1,5 +1,5 @@
 ---
 title: "HighFashionByJol"
 url: /lagos/highfashionbyjol/
-shop: Kleidung
+shop: clothes
 ---

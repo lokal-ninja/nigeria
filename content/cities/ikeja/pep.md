@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /ikeja/pep/
-shop: Warenhaus
+shop: department store
 ---

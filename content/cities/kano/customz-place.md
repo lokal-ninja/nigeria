@@ -1,5 +1,5 @@
 ---
 title: "Customz Place"
 url: /kano/customz-place/
-shop: Supermarkt
+shop: supermarket
 ---

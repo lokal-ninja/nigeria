@@ -1,5 +1,5 @@
 ---
 title: "1 McDermott Road"
 url: /warri-delta-state/1-mcdermott-road/
-shop: Kramladen
+shop: variety store
 ---

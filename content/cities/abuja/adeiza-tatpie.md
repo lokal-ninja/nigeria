@@ -1,5 +1,5 @@
 ---
 title: "Adeiza Tatpie"
 url: /abuja/adeiza-tatpie/
-shop: Tattoo
+shop: tattoo
 ---

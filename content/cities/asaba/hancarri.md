@@ -1,5 +1,5 @@
 ---
 title: "Hancarri"
 url: /asaba/hancarri/
-shop: Schuhe
+shop: shoes
 ---

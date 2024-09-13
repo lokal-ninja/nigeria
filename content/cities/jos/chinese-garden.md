@@ -1,5 +1,5 @@
 ---
 title: "Chinese garden"
 url: /jos/chinese-garden/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betsay Shopping Mall"
 url: /osogbo/betsay-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

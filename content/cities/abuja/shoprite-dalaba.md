@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /abuja/shoprite-dalaba/
-shop: Supermarkt
+shop: supermarket
 ---

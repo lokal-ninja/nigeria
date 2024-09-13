@@ -1,5 +1,5 @@
 ---
 title: "Sarengs Global Pharmacy"
 url: /jos/sarengs-global-pharmacy/
-shop: Sanitätshaus
+shop: medical supply
 ---

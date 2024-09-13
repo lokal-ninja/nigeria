@@ -1,5 +1,5 @@
 ---
 title: "Just relax Edutainment Garden"
 url: /jos/just-relax-edutainment-garden/
-shop: Garten-Center
+shop: garden centre
 ---

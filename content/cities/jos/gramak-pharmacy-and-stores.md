@@ -1,5 +1,5 @@
 ---
 title: "Gramak Pharmacy and Stores"
 url: /jos/gramak-pharmacy-and-stores/
-shop: Sanitätshaus
+shop: medical supply
 ---

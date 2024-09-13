@@ -1,5 +1,5 @@
 ---
 title: "D mama spicy kitchen"
 url: /jos/d-mama-spicy-kitchen/
-shop: Küchen
+shop: kitchen
 ---

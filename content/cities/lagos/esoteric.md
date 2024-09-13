@@ -1,5 +1,5 @@
 ---
 title: "Esoteric"
 url: /lagos/esoteric/
-shop: Möbel
+shop: furniture
 ---

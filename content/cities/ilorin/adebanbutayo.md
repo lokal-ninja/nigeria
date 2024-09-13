@@ -1,5 +1,5 @@
 ---
 title: "Adebanbutayo"
 url: /ilorin/adebanbutayo/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,11 +1,11 @@
 id: 1166199121
-type: way
+type: node
 latitude: 9.92507
 longitude: 8.88606
 postcode: "930105"
 city: Jos
-street: "Boundary Road"
-housenumber: 
+street: Boundary Road
+housenumber: ""
 phone: "+2348141689878"
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

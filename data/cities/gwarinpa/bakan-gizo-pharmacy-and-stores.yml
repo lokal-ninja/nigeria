@@ -1,11 +1,11 @@
 id: 1117329702
-type: way
+type: node
 latitude: 9.0892
 longitude: 7.41254
 postcode: "900108"
 city: Gwarinpa
-street: "1st Avenue"
+street: 1st Avenue
 housenumber: House 20
-phone: "+234 815 084 8383"
-opening_hours: "Mo-Fr 06:30-18:30"
+phone: +234 815 084 8383
+opening_hours: Mo-Fr 06:30-18:30
 website: ""

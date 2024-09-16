@@ -1,11 +1,11 @@
 id: 1002110434
-type: way
+type: node
 latitude: 6.42983
 longitude: 3.42349
 postcode: ""
 city: Lagos
-street: "Adeola Odeku Street"
-housenumber: 308
+street: Adeola Odeku Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
-website: "https://kiamotorsnigeria.com/"
+website: https://kiamotorsnigeria.com/

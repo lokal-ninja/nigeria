@@ -1,11 +1,11 @@
 id: 302294835
-type: way
+type: node
 latitude: 9.05537
 longitude: 7.48937
 postcode: ""
 city: Abuja
-street: "Phase"
-housenumber: 1
+street: Phase
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

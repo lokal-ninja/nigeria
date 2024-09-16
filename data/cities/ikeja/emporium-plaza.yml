@@ -1,11 +1,11 @@
 id: 626246877
-type: way
+type: node
 latitude: 6.59859
 longitude: 3.35325
 postcode: "100281"
 city: Ikeja
-street: "Allen Avenue"
-housenumber: 21
+street: Allen Avenue
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

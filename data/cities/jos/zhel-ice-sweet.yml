@@ -1,11 +1,11 @@
 id: 1303126769
-type: way
+type: node
 latitude: 9.9289
 longitude: 8.8677
 postcode: ""
 city: Jos
-street: "kabong"
-housenumber: 
+street: kabong
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

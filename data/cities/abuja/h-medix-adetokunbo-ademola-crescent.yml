@@ -1,11 +1,11 @@
 id: 780720767
-type: way
+type: node
 latitude: 9.07184
 longitude: 7.48568
 postcode: ""
 city: Abuja
-street: "Adetokunbo Ademola Crescent"
-housenumber: 48
-phone: "+234 8064690993"
-opening_hours: "24/7"
-website: "https://h-medix.com/"
+street: Adetokunbo Ademola Crescent
+housenumber: "48"
+phone: +234 8064690993
+opening_hours: 24/7
+website: https://h-medix.com/

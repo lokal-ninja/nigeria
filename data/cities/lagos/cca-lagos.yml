@@ -2,10 +2,10 @@ id: 3631633696
 type: node
 latitude: 6.50345
 longitude: 3.37856
-postcode: "Yaba"
+postcode: Yaba
 city: Lagos
-street: "McEwen Street"
-housenumber: 9
+street: McEwen Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.ccalagos.org/"
+website: https://www.ccalagos.org/

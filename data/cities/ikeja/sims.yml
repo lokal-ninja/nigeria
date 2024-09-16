@@ -1,11 +1,11 @@
 id: 496851833
-type: way
+type: node
 latitude: 6.59772
 longitude: 3.35416
 postcode: "100281"
 city: Ikeja
-street: "Allen Avenue"
-housenumber: 16
-phone: "+234 705 109 3233"
+street: Allen Avenue
+housenumber: "16"
+phone: +234 705 109 3233
 opening_hours: ""
-website: "https://www.simsng.com"
+website: https://www.simsng.com

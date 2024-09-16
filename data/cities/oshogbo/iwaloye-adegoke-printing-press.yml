@@ -1,11 +1,11 @@
 id: 1179768325
-type: way
+type: node
 latitude: 7.75075
 longitude: 4.57026
 postcode: "230284"
 city: Oshogbo
-street: "Oshogbo - Ilesa Road"
-housenumber: 108
+street: Oshogbo - Ilesa Road
+housenumber: "108"
 phone: "+2348034667031"
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

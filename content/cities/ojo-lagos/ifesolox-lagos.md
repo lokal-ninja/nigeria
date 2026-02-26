@@ -1,5 +1,5 @@
 ---
 title: "IFESOLOX LAGOS"
 url: /ojo-lagos/ifesolox-lagos/
-shop: supermarket
+shop: electronics
 ---

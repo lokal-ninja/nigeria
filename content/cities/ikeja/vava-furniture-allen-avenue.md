@@ -1,5 +1,5 @@
 ---
 title: "Vava Furniture"
-url: /ikeja/vava-furniture-opebi-road/
+url: /ikeja/vava-furniture-allen-avenue/
 shop: furniture
 ---

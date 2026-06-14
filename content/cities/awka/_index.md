@@ -1,6 +1,6 @@
 ---
 title: Awka
 url: /awka/
-latitude: 6.22
-longitude: 7.075
+latitude: 6.222
+longitude: 7.065
 ---
